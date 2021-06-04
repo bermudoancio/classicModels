@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX_11"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/jpa/jakarta.persistence_2.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/jpa/jakarta.persistence.source_2.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/jpa/org.eclipse.persistence.jpa.modelgen_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/jpa/org.eclipse.persistence.jpa.modelgen.source_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/jpa/org.eclipse.persistence.jpars_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/jpa/org.eclipse.persistence.jpars.source_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/moxy/api/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/moxy/jakarta.activation.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/moxy/jakarta.json.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/moxy/jakarta.mail.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/moxy/jakarta.validation-api.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/moxy/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/moxy/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="lib/eclipselink/eclipselink.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
